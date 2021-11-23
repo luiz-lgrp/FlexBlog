@@ -4,7 +4,7 @@
 <p>Site feita através do curso Origamid, onde me aprofundei em conceitos como CSS FlexBox, HTML semântico e web designer!</p>
 <P>100% responsivo!</P>
 <br>
-<P>Link do site: https://bikecraft-596cd.web.app/sobre.html </P>
+<P>Link do site: https://flexblog-54d35.web.app </P>
 
 <img src="https://github.com/luiz-lgrp/FlexBlog/blob/main/midia/FlexGif.gif" width="800" height="400" />
 <br>
