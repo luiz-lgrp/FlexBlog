@@ -326,7 +326,7 @@ img{
 /* Newsletter */
 
  .newsletter {
-     background: #F7F7F7;
+     background: #eeeeee;
      padding: 60px calc((100% - 960)/2);
      display: flex;
      flex-wrap: wrap;
